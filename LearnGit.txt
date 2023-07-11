@@ -1,0 +1,4 @@
+1) ls - List down the folders
+2) cd - To change the directory
+3) cd .. - To go in the root directory
+4) cd ../ - To go one step back
